@@ -90,7 +90,7 @@
                 android:gravity="center"
                 android:orientation="horizontal">
 
-                <com.quintus.labs.grocerystore.customfonts.MyTextViewMeriendaRegular
+                <com.citbit.in.grocerystore.customfonts.MyTextViewMeriendaRegular
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Total : "
@@ -99,7 +99,7 @@
                     android:textStyle="bold"
                     android:visibility="gone" />
 
-                <com.quintus.labs.grocerystore.customfonts.MyTextViewMeriendaRegular
+                <com.citbit.in.grocerystore.customfonts.MyTextViewMeriendaRegular
                     android:id="@+id/total_price"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -119,7 +119,7 @@
                 android:onClick="onCheckoutClicked"
                 android:orientation="horizontal">
 
-                <com.quintus.labs.grocerystore.customfonts.MyTextViewMeriendaRegular
+                <com.citbit.in.grocerystore.customfonts.MyTextViewMeriendaRegular
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Checkout "

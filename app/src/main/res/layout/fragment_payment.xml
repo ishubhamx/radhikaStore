@@ -39,7 +39,7 @@
                         android:layout_height="20dp"
                         android:background="@drawable/ic_placeholder_select" />
 
-                    <com.quintus.labs.grocerystore.customfonts.MyTextView
+                    <com.citbit.in.grocerystore.customfonts.MyTextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Adderss"
@@ -59,7 +59,7 @@
                         android:layout_height="20dp"
                         android:background="@drawable/ic_credit_card" />
 
-                    <com.quintus.labs.grocerystore.customfonts.MyTextView
+                    <com.citbit.in.grocerystore.customfonts.MyTextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Payment"
@@ -80,7 +80,7 @@
                         android:layout_height="20dp"
                         android:background="@drawable/ic_confirm_unselect" />
 
-                    <com.quintus.labs.grocerystore.customfonts.MyTextView
+                    <com.citbit.in.grocerystore.customfonts.MyTextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Confirm"
@@ -141,7 +141,7 @@
                         android:orientation="vertical">
 
 
-                        <com.quintus.labs.grocerystore.customfonts.MyTextView
+                        <com.citbit.in.grocerystore.customfonts.MyTextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_margin="16dp"
@@ -162,7 +162,7 @@
                                 android:layout_marginLeft="16dp"
                                 android:backgroundTint="@color/lightgrey" />
 
-                            <com.quintus.labs.grocerystore.customfonts.MyTextView
+                            <com.citbit.in.grocerystore.customfonts.MyTextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
@@ -178,7 +178,7 @@
                                 android:background="@drawable/bg_ccv"
                                 android:padding="5dp">
 
-                                <com.quintus.labs.grocerystore.customfonts.MyEditText
+                                <com.citbit.in.grocerystore.customfonts.MyEditText
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:background="#00000000"
@@ -223,7 +223,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="16dp" />
 
-                            <com.quintus.labs.grocerystore.customfonts.MyTextView
+                            <com.citbit.in.grocerystore.customfonts.MyTextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
@@ -240,7 +240,7 @@
                                 android:background="@drawable/bg_ccv"
                                 android:padding="5dp">
 
-                                <com.quintus.labs.grocerystore.customfonts.MyEditText
+                                <com.citbit.in.grocerystore.customfonts.MyEditText
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:background="#00000000"
@@ -284,7 +284,7 @@
                             android:background="@color/lightgrey"></View>
 
 
-                        <com.quintus.labs.grocerystore.customfonts.MyTextView
+                        <com.citbit.in.grocerystore.customfonts.MyTextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_margin="16dp"
@@ -304,7 +304,7 @@
                             android:padding="13dp">
 
 
-                            <com.quintus.labs.grocerystore.customfonts.MyEditText
+                            <com.citbit.in.grocerystore.customfonts.MyEditText
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
@@ -347,7 +347,7 @@
                             android:padding="14dp">
 
 
-                            <com.quintus.labs.grocerystore.customfonts.MyEditText
+                            <com.citbit.in.grocerystore.customfonts.MyEditText
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
@@ -385,7 +385,7 @@
                                 android:padding="14dp">
 
 
-                                <com.quintus.labs.grocerystore.customfonts.MyTextView
+                                <com.citbit.in.grocerystore.customfonts.MyTextView
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
@@ -394,7 +394,7 @@
                                     android:textColor="@color/lightgrey"
                                     android:textSize="@dimen/sub_text" />
 
-                                <com.quintus.labs.grocerystore.customfonts.MyEditText
+                                <com.citbit.in.grocerystore.customfonts.MyEditText
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
@@ -423,7 +423,7 @@
                                 android:padding="14dp">
 
 
-                                <com.quintus.labs.grocerystore.customfonts.MyTextView
+                                <com.citbit.in.grocerystore.customfonts.MyTextView
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
@@ -433,7 +433,7 @@
                                     android:textColor="@color/lightgrey"
                                     android:textSize="@dimen/sub_text" />
 
-                                <com.quintus.labs.grocerystore.customfonts.MyEditText
+                                <com.citbit.in.grocerystore.customfonts.MyEditText
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
@@ -465,7 +465,7 @@
                             android:padding="14dp">
 
 
-                            <com.quintus.labs.grocerystore.customfonts.MyTextView
+                            <com.citbit.in.grocerystore.customfonts.MyTextView
                                 android:id="@+id/total_pay"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"

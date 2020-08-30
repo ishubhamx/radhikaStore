@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:319212250245:android:a20fb6e9e597c8d0e4b5ec",
         "android_client_info": {
-          "package_name": "com.quintus.labs.grocerystore"
+          "package_name": "com.citbit.in.grocerystore"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "319212250245-jtt89efjae1ja53jm91b8l3vfq2pt68s.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.quintus.labs.grocerystore",
+            "package_name": "com.citbit.in.grocerystore",
             "certificate_hash": "8c889b31613bd7616b4daad8d13de687189d31ec"
           }
         },
