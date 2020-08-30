@@ -25,7 +25,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RestClient {
 
-    public static final String BASE_URL = "https://citbitstoreapi.herokuapp.com-";//http://<ipaddress>/directoryname
+    public static final String BASE_URL = "https://citbitstoreapi.herokuapp.com";//http://<ipaddress>/directoryname
     public static Retrofit RETROFIT = null;
     public static Retrofit RETROFIT1 = null;
     public static RestService restService = null;
