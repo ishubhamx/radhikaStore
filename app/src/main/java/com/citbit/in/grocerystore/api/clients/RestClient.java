@@ -3,11 +3,11 @@ package com.citbit.in.grocerystore.api.clients;
 
 import android.content.Context;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.citbit.in.grocerystore.api.LoggingInterceptor;
 import com.citbit.in.grocerystore.api.RestService;
 import com.citbit.in.grocerystore.api.ToStringConverterFactory;
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 
 import java.util.concurrent.TimeUnit;
 
@@ -25,7 +25,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RestClient {
 
-    public static final String BASE_URL = "https://citbitstoreapi.herokuapp.com";//http://<ipaddress>/directoryname
+    public static final String BASE_URL = "http://192.168.43.54:3000/";//http://<ipaddress>/directoryname
     public static Retrofit RETROFIT = null;
     public static Retrofit RETROFIT1 = null;
     public static RestService restService = null;
